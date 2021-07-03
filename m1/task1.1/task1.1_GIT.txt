@@ -1,0 +1,20 @@
+56245cc (HEAD -> master, origin/master, origin/develop, origin/HEAD, develop) HEAD@{0}: merge develop: Fast-forward
+9637781 HEAD@{1}: checkout: moving from develop to master
+56245cc (HEAD -> master, origin/master, origin/develop, origin/HEAD, develop) HEAD@{2}: commit (merge): megre styles to develop
+e525727 (origin/images, images) HEAD@{3}: merge images: Fast-forward
+ee0052b HEAD@{4}: checkout: moving from styles to develop
+f6eea57 (origin/styles, styles) HEAD@{5}: commit: added styles.css changed index.html
+ee0052b HEAD@{6}: checkout: moving from images to styles
+e525727 (origin/images, images) HEAD@{7}: checkout: moving from develop to images
+ee0052b HEAD@{8}: checkout: moving from styles to develop
+ee0052b HEAD@{9}: checkout: moving from images to styles
+e525727 (origin/images, images) HEAD@{10}: checkout: moving from styles to images
+ee0052b HEAD@{11}: checkout: moving from develop to styles
+ee0052b HEAD@{12}: checkout: moving from images to develop
+e525727 (origin/images, images) HEAD@{13}: commit: images added
+fa05b6c HEAD@{14}: commit: adding images to develop
+ee0052b HEAD@{15}: checkout: moving from develop to images
+ee0052b HEAD@{16}: commit: add index.html to develop
+9637781 HEAD@{17}: checkout: moving from master to develop
+9637781 HEAD@{18}: commit: initial commit v1
+fd54611 HEAD@{19}: clone: from github.com:RomanNabok/DevOps_online_Kyiv_2021Q3.git
